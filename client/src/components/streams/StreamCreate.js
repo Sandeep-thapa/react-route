@@ -24,7 +24,7 @@ class StreamCreate extends React.Component {
         );
     }
 
-    onSubmit(formData) {
+    onSubmit(formValues) {
 
     }
     render() {

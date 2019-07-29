@@ -5,6 +5,10 @@ client/.env
 client/node_modules
 node_modules
 
+api/.env
+api/node_modules
+
+
 /.pnp
 .pnp.js
 
